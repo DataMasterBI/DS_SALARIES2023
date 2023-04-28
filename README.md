@@ -1,6 +1,8 @@
 # DS_SALARIES2023
 Data Science Salaries 2023
 
+https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
+
 About Dataset
 Data Science Job Salaries Dataset contains 11 columns, each are:
 1.	work_year: The year the salary was paid.
