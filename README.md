@@ -1,5 +1,5 @@
 # DS_SALARIES2023
-Data Science Salaries 2023
+Data Science Salaries 2023 - EDA (Exploratory data analysis)
 
 https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
 
